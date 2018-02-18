@@ -1,0 +1,17 @@
+{
+  "version": "0.1.0",
+  "command": "/System/Library/Frameworks/Python.framework/Resources/Python.app/Contents/MacOS/Python",
+  "args": [
+    "app.py"
+  ],
+  "problemMatcher": {
+    "fileLocation": [
+      "relative",
+      "${workspaceRoot}"
+    ],
+    "pattern": {
+      "regexp": "^(.*)+s$",
+      "message": 1
+    }
+  }
+}
